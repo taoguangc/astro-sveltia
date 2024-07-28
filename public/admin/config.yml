@@ -3,7 +3,7 @@ local_backend: true
 logo_url: /logo.svg
 
 backend:
-    name: github
+    name: git-gateway
     branch: main
     repo: taoguangc/astro-sveltia
     site_domain: astro-sveltia.netlify.app
